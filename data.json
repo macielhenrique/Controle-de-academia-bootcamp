@@ -1,0 +1,22 @@
+{
+  "instructors": [
+    {
+      "avatar_url": "http://youtube.com",
+      "name": "maluvido",
+      "birth": 649814400000,
+      "gender": "M",
+      "services": "teste",
+      "created_at": 1633160284638,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "jõa",
+      "avatar_url": "http://google.com.br",
+      "birth": 17517168000000,
+      "gender": "M",
+      "services": "roxeda",
+      "created_at": 1633161658785
+    }
+  ]
+}
