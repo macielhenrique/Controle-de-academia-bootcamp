@@ -35,6 +35,24 @@
       "gender": "F",
       "services": "surf,natação,cross-surf",
       "created_at": 1633487642457
+    },
+    {
+      "id": 5,
+      "name": "maciel",
+      "avatar_url": "https://pbs.twimg.com/profile_images/562980018712616960/gF1X2twf_400x400.jpeg",
+      "birth": 946771200000,
+      "gender": "M",
+      "services": "jiu-jitsu,judo,natação",
+      "created_at": 1633559836124
+    },
+    {
+      "id": 6,
+      "name": "luana",
+      "avatar_url": "https://pbs.twimg.com/profile_images/562980018712616960/gF1X2twf_400x400.jpeg",
+      "birth": 789350400000,
+      "gender": "F",
+      "services": "jiu-jitsu,judo,natação",
+      "created_at": 1634184831070
     }
   ]
 }
