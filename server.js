@@ -1,11 +1,14 @@
 const express = require('express')
 const nunjucks = require('nunjucks')
 const routes= require("./routes")
+const methOverride = require ('method-override')
 
 const server = express()
 server.use(express.urlencoded({extended:true}))
 server.use(express.static('public'))
+server.use(methOverride ('_method'))
 server.use(routes)
+
 server.set("view engine", "njk")
 
 nunjucks.configure("views", {
