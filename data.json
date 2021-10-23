@@ -1,4 +1,28 @@
 {
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://boaforma.abril.com.br/wp-content/uploads/sites/2/2017/07/atleta-sorrindo-com-corda.jpg",
+      "name": "GLEICE SILVA",
+      "email": "GSILVA@GMAIL.COM",
+      "birth": 1135036800000,
+      "blood": "A+",
+      "weight": "78",
+      "height": "170",
+      "gender": "F"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1550259979-ed79b48d2a30?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fG11bGhlciUyMGd5bXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "name": "Luana",
+      "email": "luana@email.com",
+      "birth": 959212800000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "65",
+      "height": "168"
+    }
+  ],
   "instructors": [
     {
       "id": 5,
@@ -11,7 +35,7 @@
     },
     {
       "id": 2,
-      "name": "Maria Joaquinaa",
+      "name": "Maria Joaquina",
       "avatar_url": "https://media.istockphoto.com/photos/m-just-out-living-life-picture-id1018800722?b=1&k=20&m=1018800722&s=170667a&w=0&h=65rgGpW0t3yz-YMgTMbGYsuTB6NxHmJ_QzF1q46y0NI=",
       "birth": 831081600000,
       "gender": "F",
